@@ -1,0 +1,4 @@
+[2024-05-27 21:58:58][DEBUG]Essa é uma mensagem de DEBUG
+[2024-05-27 21:58:58][ERROR]Essa é uma mensagem de ERRO
+[2024-05-27 21:58:58][WARNING]Essa é uma mensagem de AVISO
+[2024-05-27 21:58:58][NORMAL]Essa é uma mensagem NORMAL
